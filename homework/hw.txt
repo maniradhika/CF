@@ -1,0 +1,17 @@
+1. To find average and grade for given marks.
+2. To find the sale price of an item with a given cost and discount (%).
+3. To calculate perimeter/circumference and area of shapes such as triangle, rectangle, square and circle.
+4. To calculate Simple and Compound interest.
+5. To calculate profit-loss for a given Cost and Sell Price.
+6. To calculate EMI for Amount, Period and Interest.
+7. To calculate tax - GST / Income Tax.
+8. To find the largest and smallest numbers in a list.
+9. To find the third largest/smallest number in a list.
+10. To find the sum of squares of the first 100 natural numbers.
+11. To print the first ‘n’ multiples of a given number.
+12. To count the number of vowels in a user entered string.
+13. To print the words starting with a particular alphabet in a user entered string.
+14. To print the number of occurrences of a given alphabet in a given string.
+15. Create a dictionary to store names of states and their capitals.
+16. Create a dictionary of students to store names and marks obtained in 5 subjects.
+17. To print the highest and lowest values in the dictionary.
